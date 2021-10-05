@@ -1,0 +1,16 @@
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\bin\Debug\net5.0\Lab3PP.exe
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\bin\Debug\net5.0\Lab3PP.deps.json
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\bin\Debug\net5.0\Lab3PP.runtimeconfig.json
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\bin\Debug\net5.0\Lab3PP.runtimeconfig.dev.json
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\bin\Debug\net5.0\Lab3PP.dll
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\bin\Debug\net5.0\ref\Lab3PP.dll
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\bin\Debug\net5.0\Lab3PP.pdb
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\obj\Debug\net5.0\Lab3PP.csprojAssemblyReference.cache
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\obj\Debug\net5.0\Lab3PP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\obj\Debug\net5.0\Lab3PP.AssemblyInfoInputs.cache
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\obj\Debug\net5.0\Lab3PP.AssemblyInfo.cs
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\obj\Debug\net5.0\Lab3PP.csproj.CoreCompileInputs.cache
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\obj\Debug\net5.0\Lab3PP.dll
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\obj\Debug\net5.0\ref\Lab3PP.dll
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\obj\Debug\net5.0\Lab3PP.pdb
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\Lab3\Lab3PP\obj\Debug\net5.0\Lab3PP.genruntimeconfig.cache
